@@ -1,5 +1,6 @@
 ## Quickstart Guide
 
-1. Clone the repo
-2. Configure your .env file
-3. Run Terraform commands
+1. git clone https://github.com/EstherAnosike/devops-starter-kit.git
+2. cd devops-starter-kit/terraform
+3. Configure your .env file
+4. Run Terraform commands
